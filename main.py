@@ -8,7 +8,7 @@ past self about one specific moment, and one sentence on why it mattered.
 import os
 
 LINE_ONE = "Don't delete Grandma's voicemail about the soup she left in your fridge - save it."
-LINE_TWO = "Three years from now it will be the only recording of her voice you own, and you will play it every time you forget what home sounds like."
+LINE_TWO = "Three years from now it will be the only recording of her voice left in the world, and you will play it every time you forget what home sounds like."
 
 ENTRY = LINE_ONE + "\n" + LINE_TWO + "\n"
 
